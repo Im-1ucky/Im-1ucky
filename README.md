@@ -82,8 +82,8 @@
 </td>
 
 <td align="center">
-🟢<br>
-<sub>Jetpack Compose</sub>
+<img src="assets/as.png" width="48" /><br>
+<sub>Compose</sub>
 </td>
 </tr>
 </table>
@@ -119,13 +119,13 @@
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="48" /><br>
-<sub>Git</sub>
+<img src="assets/arch.png" width="48" /><br>
+<sub>Arch Linux</sub>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="48" /><br>
-<sub>GitHub</sub>
+<img src="https://skillicons.dev/icons?i=git" width="48" /><br>
+<sub>Git</sub>
 </td>
 
 <td align="center">
