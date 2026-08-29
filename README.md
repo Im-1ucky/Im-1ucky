@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/Im-1ucky">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Lucky+Reddy;%24+whoami;CS+Student;Android+%26+Web+Developer" alt="typing banner">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Lucky+Reddy;%24+whoami;CS+Student;Android+%26+Web+Developer;Linux+Enthusiast" alt="typing banner">
 </a>
 
 <br>
@@ -170,15 +170,17 @@
 
 </div>
 
----
-
 <div align="center">
 
 ## `~/` contribution calendar
 
 <img src="assets/metrics.isocalendar.svg" width="100%" alt="Contribution Calendar">
 
-</div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Im-1ucky/Im-1ucky/output/github-snake.svg"
+     width="100%"
+     alt="GitHub Contribution Snake">
 
 <div align="center">
 
