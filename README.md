@@ -168,3 +168,13 @@
 </table>
 
 </div>
+
+---
+
+<div align="center">
+
+## `~/` contribution calendar
+
+<img src="assets/metrics.isocalendar.svg" width="100%" alt="Contribution Calendar">
+
+</div>
