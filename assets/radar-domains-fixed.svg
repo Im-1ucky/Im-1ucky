@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+<title>Developer Domains Radar</title>
+<polygon points="300.0,263.0 332.0,281.5 332.0,318.5 300.0,337.0 268.0,318.5 268.0,281.5" fill="none" stroke="#6e7681" stroke-width="1.5" opacity="0.25"/>
+<polygon points="300.0,226.0 364.1,263.0 364.1,337.0 300.0,374.0 235.9,337.0 235.9,263.0" fill="none" stroke="#6e7681" stroke-width="1.5" opacity="0.25"/>
+<polygon points="300.0,189.0 396.1,244.5 396.1,355.5 300.0,411.0 203.9,355.5 203.9,244.5" fill="none" stroke="#6e7681" stroke-width="1.5" opacity="0.25"/>
+<polygon points="300.0,152.0 428.2,226.0 428.2,374.0 300.0,448.0 171.8,374.0 171.8,226.0" fill="none" stroke="#6e7681" stroke-width="1.5" opacity="0.25"/>
+<polygon points="300.0,115.0 460.2,207.5 460.2,392.5 300.0,485.0 139.8,392.5 139.8,207.5" fill="none" stroke="#6e7681" stroke-width="1.5" opacity="0.50"/>
+<line x1="300" y1="300" x2="300.0" y2="115.0" stroke="#6e7681" stroke-width="1.5" opacity="0.4"/>
+<line x1="300" y1="300" x2="460.2" y2="207.5" stroke="#6e7681" stroke-width="1.5" opacity="0.4"/>
+<line x1="300" y1="300" x2="460.2" y2="392.5" stroke="#6e7681" stroke-width="1.5" opacity="0.4"/>
+<line x1="300" y1="300" x2="300.0" y2="485.0" stroke="#6e7681" stroke-width="1.5" opacity="0.4"/>
+<line x1="300" y1="300" x2="139.8" y2="392.5" stroke="#6e7681" stroke-width="1.5" opacity="0.4"/>
+<line x1="300" y1="300" x2="139.8" y2="207.5" stroke="#6e7681" stroke-width="1.5" opacity="0.4"/>
+<polygon points="300.0,152.0 412.2,235.2 444.2,383.2 300.0,485.0 187.8,364.8 171.8,226.0" fill="#39D353" fill-opacity="0.20" stroke="#39D353" stroke-width="3"/>
+<circle cx="300.0" cy="152.0" r="5" fill="#39D353"/>
+<text x="300.0" y="61.0" text-anchor="middle" font-family="monospace" font-size="14" fill="#8b949e">
+<tspan>Android</tspan>
+<tspan x="300.0" dy="19">Development</tspan>
+</text>
+<text x="300.0" y="139.0" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#39D353">8</text>
+<circle cx="412.2" cy="235.2" r="5" fill="#39D353"/>
+<text x="499.2" y="185.0" text-anchor="start" font-family="monospace" font-size="14" fill="#8b949e">
+<tspan>Web Development</tspan>
+</text>
+<text x="412.2" y="222.2" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#39D353">7</text>
+<circle cx="444.2" cy="383.2" r="5" fill="#39D353"/>
+<text x="499.2" y="406.0" text-anchor="start" font-family="monospace" font-size="14" fill="#8b949e">
+<tspan>Linux /</tspan>
+<tspan x="499.2" dy="19">System Customization</tspan>
+</text>
+<text x="444.2" y="370.2" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#39D353">9</text>
+<circle cx="300.0" cy="485.0" r="5" fill="#39D353"/>
+<text x="300.0" y="521.0" text-anchor="middle" font-family="monospace" font-size="14" fill="#8b949e">
+<tspan>UI/UX &amp;</tspan>
+<tspan x="300.0" dy="19">Graphic Design</tspan>
+</text>
+<text x="300.0" y="472.0" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#39D353">10</text>
+<circle cx="187.8" cy="364.8" r="5" fill="#39D353"/>
+<text x="100.8" y="406.0" text-anchor="end" font-family="monospace" font-size="14" fill="#8b949e">
+<tspan>Database</tspan>
+<tspan x="100.8" dy="19">Management</tspan>
+</text>
+<text x="187.8" y="351.8" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#39D353">7</text>
+<circle cx="171.8" cy="226.0" r="5" fill="#39D353"/>
+<text x="100.8" y="176.0" text-anchor="end" font-family="monospace" font-size="14" fill="#8b949e">
+<tspan>Problem Solving</tspan>
+<tspan x="100.8" dy="19">/ DSA</tspan>
+</text>
+<text x="171.8" y="213.0" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#39D353">8</text>
+</svg>
