@@ -25,7 +25,6 @@
 <img src="https://komarev.com/ghpvc/?username=Im-1ucky&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
-
 ---
 
 <div align="center">
@@ -34,18 +33,116 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,kotlin,js,dart,java" />
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" /><br>
+<sub>C/C++</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48" /><br>
+<sub>Python</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=kotlin" width="48" /><br>
+<sub>Kotlin</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="48" /><br>
+<sub>JavaScript</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=dart" width="48" /><br>
+<sub>Dart</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="48" /><br>
+<sub>Java</sub>
+</td>
+</tr>
+</table>
 
 ### Frameworks
 
-<img src="https://skillicons.dev/icons?i=flutter,react" />
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" /><br>
+<sub>Flutter</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="48" /><br>
+<sub>React</sub>
+</td>
+
+<td align="center">
+🟢<br>
+<sub>Jetpack Compose</sub>
+</td>
+</tr>
+</table>
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" /><br>
+<sub>MySQL</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" /><br>
+<sub>PostgreSQL</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" /><br>
+<sub>SQLite</sub>
+</td>
+</tr>
+</table>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,neovim,bash,blender" />
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="48" /><br>
+<sub>Linux</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48" /><br>
+<sub>Git</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="48" /><br>
+<sub>GitHub</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=neovim" width="48" /><br>
+<sub>Neovim</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bash" width="48" /><br>
+<sub>Bash</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=blender" width="48" /><br>
+<sub>Blender</sub>
+</td>
+</tr>
+</table>
 
 </div>
