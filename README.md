@@ -145,3 +145,26 @@
 </table>
 
 </div>
+
+---
+
+<div align="center">
+
+## `~/` skill radar
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="assets/stack.png" width="100%" alt="Tech Stack">
+
+</td>
+<td align="center" width="50%">
+
+<img src="assets/domains.png" width="100%" alt="Dev Stack">
+
+</td>
+</tr>
+</table>
+
+</div>
