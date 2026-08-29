@@ -18,6 +18,7 @@ jobs:
         with:
           filename: assets/metrics.isocalendar.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          user: Im-1ucky
           base: ""
 
           plugin_isocalendar: yes
@@ -28,9 +29,15 @@ jobs:
         with:
           filename: assets/metrics.numbers.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          user: Im-1ucky
 
           base: header, activity, community, repositories, metadata
 
+          repositories: 100
+          repositories_forks: no
+
           plugin_languages: yes
+          plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
