@@ -25,3 +25,27 @@
 <img src="https://komarev.com/ghpvc/?username=Im-1ucky&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
+
+---
+
+<div align="center">
+
+## `~/` toolbox
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,kotlin,js,dart,java" />
+
+### Frameworks
+
+<img src="https://skillicons.dev/icons?i=flutter,react" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,neovim,bash,blender" />
+
+</div>
