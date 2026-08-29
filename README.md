@@ -18,6 +18,7 @@
 </a>
 <a href="https://leetcode.com/u/Im_1ucky/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+</a>
 <a href="https://im-1ucky.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
@@ -182,7 +183,8 @@
 <div align="center">
 
 ## `~/` the numbers
-
-<img src="assets/metrics.numbers.svg" width="720" alt="GitHub statistics and most used languages">
+<img src="assets/metrics.numbers.svg?v=2"
+     width="720"
+     alt="GitHub statistics and most used languages">
 
 </div>
