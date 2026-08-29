@@ -1,4 +1,4 @@
-name: Contribution Calendar
+name: GitHub Metrics
 
 on:
   schedule:
@@ -22,3 +22,15 @@ jobs:
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+      - name: Generate numbers and languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.numbers.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          base: header, activity, community, repositories, metadata
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
