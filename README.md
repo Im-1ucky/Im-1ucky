@@ -178,3 +178,11 @@
 <img src="assets/metrics.isocalendar.svg" width="100%" alt="Contribution Calendar">
 
 </div>
+
+<div align="center">
+
+## `~/` the numbers
+
+<img src="assets/metrics.numbers.svg" width="720" alt="GitHub statistics and most used languages">
+
+</div>
