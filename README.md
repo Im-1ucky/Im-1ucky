@@ -29,7 +29,7 @@
 
 <div align="center">
 
-## `~/` toolbox
+## `$` tech stack
 
 ### Languages
 
@@ -151,7 +151,7 @@
 
 <div align="center">
 
-## `~/` skill radar
+## `$` skill map
 
 <table>
 <tr>
@@ -172,7 +172,7 @@
 
 <div align="center">
 
-## `~/` contribution calendar
+## `$` contributions
 
 <img src="assets/metrics.isocalendar.svg" width="100%" alt="Contribution Calendar">
 
@@ -184,19 +184,37 @@
 
 <br>
 
-<div align="center">
-
-## `~/` the numbers
-<div align="center">
-
-<img src="assets/metrics.numbers.svg"
-     width="850"
-     alt="GitHub statistics">
 
 <div align="center">
+
+## `$` the grind
+
+<table>
+<tr>
+<td>
+
+<img
+  src="https://github-readme-stats.shion.dev/api?username=Im-1ucky&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+  alt="GitHub Stats"
+/>
+
+</td>
+<td>
+
+<img
+  src="https://streak-stats.demolab.com/?user=Im-1ucky&theme=dark&hide_border=false"
+  alt="GitHub Streak"
+/>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <img src="assets/metrics.languages.svg"
-     width="850"
+     width="100%"
+     height="380"
      alt="Most used languages">
 
 </div>
