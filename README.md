@@ -176,8 +176,6 @@
 
 <img src="assets/metrics.isocalendar.svg" width="100%" alt="Contribution Calendar">
 
-<br><br>
-
 <img src="https://raw.githubusercontent.com/Im-1ucky/Im-1ucky/output/github-snake.svg"
      width="100%"
      alt="GitHub Contribution Snake">
@@ -189,9 +187,16 @@
 <div align="center">
 
 ## `~/` the numbers
+<div align="center">
 
-<img src="assets/metrics.numbers.svg?v=2"
-     width="720"
-     alt="GitHub statistics and most used languages">
+<img src="assets/metrics.numbers.svg"
+     width="850"
+     alt="GitHub statistics">
+
+<div align="center">
+
+<img src="assets/metrics.languages.svg"
+     width="850"
+     alt="Most used languages">
 
 </div>
