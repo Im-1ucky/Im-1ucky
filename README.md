@@ -23,7 +23,16 @@
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
-<br>
+<br><br>
+
+```bash
+lucky@archlinux:~$ cat whoami.txt
+• 💻 CS Student & Software Developer | Linux Enthusiast
+• 📱 Mobile: Native Android (Kotlin & Jetpack Compose) & Cross-Platform (Flutter)
+• 🌐 Web: Modern interfaces with React, JavaScript & responsive UI/UX
+• ⚙️ Systems & Core: C / C++, Python & shell scripting with Bash
+• ⚡ Dev Environment: Arch Linux & Neovim
+```
 
 </div>
 
@@ -82,7 +91,7 @@
 </td>
 
 <td align="center">
-<img src="assets/as.png" width="48" /><br>
+<img src="assets/jc.png" width="48" /><br>
 <sub>Compose</sub>
 </td>
 </tr>
@@ -176,15 +185,20 @@
 
 <img src="assets/metrics.isocalendar.svg" width="100%" alt="Contribution Calendar">
 
-<div align="center">
+<br><br>
 
 <img src="https://raw.githubusercontent.com/Im-1ucky/Im-1ucky/output/github-snake.svg"
      width="100%"
      alt="GitHub Contribution Snake">
 
+</div>
+
+<br>
+
 <div align="center">
 
 ## `~/` the numbers
+
 <img src="assets/metrics.numbers.svg?v=2"
      width="720"
      alt="GitHub statistics and most used languages">
