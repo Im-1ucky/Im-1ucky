@@ -23,16 +23,7 @@
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
-<br><br>
-
-```bash
-lucky@archlinux:~$ cat whoami.txt
-• 💻 CS Student & Software Developer | Linux Enthusiast
-• 📱 Mobile: Native Android (Kotlin & Jetpack Compose) & Cross-Platform (Flutter)
-• 🌐 Web: Modern interfaces with React, JavaScript & responsive UI/UX
-• ⚙️ Systems & Core: C / C++, Python & shell scripting with Bash
-• ⚡ Dev Environment: Arch Linux & Neovim
-```
+<br>
 
 </div>
 
