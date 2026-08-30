@@ -24,7 +24,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      - name: Generate numbers and languages
+      - name: Generate GitHub numbers
         uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics.numbers.svg
@@ -35,6 +35,15 @@ jobs:
 
           repositories: 100
           repositories_forks: no
+
+      - name: Generate most used languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Im-1ucky
+
+          base: ""
 
           plugin_languages: yes
           plugin_languages_indepth: yes
