@@ -13,29 +13,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/metrics.isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Im-1ucky
-          base: ""
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-      - name: Generate GitHub numbers
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/metrics.numbers.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Im-1ucky
-
-          base: header, activity, community, repositories, metadata
-
-          repositories: 100
-          repositories_forks: no
-
       - name: Generate most used languages
         uses: lowlighter/metrics@latest
         with:
