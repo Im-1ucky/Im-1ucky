@@ -174,13 +174,9 @@
 
 ## `$` contributions
 
-<!-- <img src="assets/metrics.isocalendar.svg" width="100%" alt="Contribution Calendar"> -->
 ![Activity Graph](https://raw.githubusercontent.com/Im-1ucky/Im-1ucky/output/activity-graph.svg)
+
 <img src="https://raw.githubusercontent.com/Im-1ucky/Im-1ucky/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
-</div>
-
-<br>
-
 
 <div align="center">
 
