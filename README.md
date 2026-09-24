@@ -183,24 +183,17 @@
 ## `$` the grind
 
 <table>
-<tr>
-<td>
 
-<!-- <img
+<img
   src="https://www.gitskins.com/api/section/stats?username=Im-1ucky&theme=cyber&style=aura"
   alt="GitHub Stats"
-/> -->
-
-</td>
-<td>
+/> 
 
 <img
   src="https://streak-stats.demolab.com/?user=Im-1ucky&theme=dark&hide_border=false"
   alt="GitHub Streak"
 />
 
-</td>
-</tr>
 </table>
 
 <br>
