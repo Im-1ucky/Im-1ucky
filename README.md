@@ -186,10 +186,10 @@
 <tr>
 <td>
 
-<img
-  src="https://github-readme-stats.shion.dev/api?username=Im-1ucky&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+<!-- <img
+  src="https://www.gitskins.com/api/section/stats?username=Im-1ucky&theme=cyber&style=aura"
   alt="GitHub Stats"
-/>
+/> -->
 
 </td>
 <td>
