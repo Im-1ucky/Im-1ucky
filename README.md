@@ -46,8 +46,8 @@
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=kotlin" width="48" /><br>
-<sub>Kotlin</sub>
+<img src="https://skillicons.dev/icons?i=go" width="48" /><br>
+<sub>Go</sub>
 </td>
 
 <td align="center">
@@ -56,8 +56,8 @@
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=dart" width="48" /><br>
-<sub>Dart</sub>
+<img src="https://skillicons.dev/icons?i=kotlin" width="48" /><br>
+<sub>Kotlin</sub>
 </td>
 
 <td align="center">
@@ -71,9 +71,15 @@
 
 <table>
 <tr>
+
 <td align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="48" /><br>
-<sub>Flutter</sub>
+<img src="https://skillicons.dev/icons?i=express" width="48" /><br>
+<sub>Express</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br>
+<sub>Node.js</sub>
 </td>
 
 <td align="center">
@@ -84,6 +90,11 @@
 <td align="center">
 <img src="assets/jc.png" width="48" /><br>
 <sub>Compose</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" /><br>
+<sub>Flutter</sub>
 </td>
 </tr>
 </table>
@@ -182,18 +193,15 @@
 
 ## `$` the grind
 
-<table>
-
-<img
-  src="https://www.gitskins.com/api/section/stats?username=Im-1ucky&theme=cyber&style=aura"
-  alt="GitHub Stats"
-/> 
-
-<img
-  src="https://streak-stats.demolab.com/?user=Im-1ucky&theme=dark&hide_border=false"
-  alt="GitHub Streak"
-/>
-
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.shion.dev/api?username=Im-1ucky&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=Im-1ucky&theme=dark&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
 </table>
 
 <br>
